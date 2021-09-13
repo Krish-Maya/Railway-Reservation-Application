@@ -59,7 +59,7 @@ class TrainBooking
 					   }
 					   if(!bb)
 					   {
-						   System.out.println("Passenger Not Exist");
+						   System.out.println("Passenger Not Exist in System");
 					   }
 					   break;
 			   case 4: 
