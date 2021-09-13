@@ -14,7 +14,7 @@ class TrainBooking
 	   do
 	   {
 		   System.out.println("############Train Booking###########");
-	    System.out.println("**********  1.Booking 2.Cancel 3.Status_Check 4.Available_Tickets 5.Exit to Main********");
+	    System.out.println("**********  1.Booking 2.Cancel 3.Status_Check 4.Available_Tickets 5.Exit ********");
 	   ch=sc.nextInt();
 	      switch(ch)
 		  {
