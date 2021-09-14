@@ -4,6 +4,7 @@ class TrainBooking
 {
  
  //main function
+	//new lines added
     public static void main( String[] args)
 	{
 	   Scanner sc = new Scanner( System.in);
